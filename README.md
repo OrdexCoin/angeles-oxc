@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![OrdexCoin Logo](ordexcoin.png)
+  <img src="ordexcoin.png" alt="OrdexCoin Logo" width="200">
 
   # 🌟 OrdexCoin Angels  
   *Community supporters who funded the listing application on* **[NONKYC](https://nonkyc.io)**
