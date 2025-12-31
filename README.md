@@ -22,12 +22,12 @@ All contributions were voluntary and directed exclusively toward exchange listin
 
 | Donor             | Amount (USD)      | Contribution Date |
 |-------------------|-------------------|-------------------|
-| `@Angeles123`     | $1,250.00         | 2025-11-28        |
-| `CryptoGuardian`  | $980.00           | 2025-12-03        |
-| `OXC_Fan_2025`    | $750.00           | 2025-12-10        |
-| `BlockchainBeliever` | $500.00        | 2025-12-18        |
-| `SatoshiDisciple` | $320.00           | 2025-12-22        |
-| `HODL_Elite`      | balance pending   | 2025-12-29        |
+| `@Lied2Hero`      | $51.00            | 2025-12-30        |
+| `N/A`             | $00.00            | 2000-00-00        |
+| `N/A`             | $00.00            | 2000-00-00        |
+| `N/A`             | $00.00            | 2000-00-00        |
+| `N/A`             | $00.00            | 2000-00-00        |
+| `N/A`             | $00.00            | 2000-00-00        |
 
 > ℹ️ *USD amounts reflect value at time of contribution.  
 > `balance pending` = under verification or processing.*
@@ -61,7 +61,7 @@ Join the movement to bring **OrdexCoin** to more exchanges and strengthen its ec
   <br><br>
 
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ordexcoin)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/ordexcoin)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)]([https://discord.gg/ordexcoin](https://discord.gg/ntX2ju8p27))
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ordexcoin)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/OrdexCoin)
 
