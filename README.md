@@ -22,7 +22,7 @@ All contributions were voluntary and directed exclusively toward exchange listin
 
 | Donor             | Amount (USD)      | Contribution Date |
 |-------------------|-------------------|-------------------|
-| `@Lied2Hero`      | $51.00            | 2025-12-30        |
+| `Lied2Hero`       | $51.00            | 2025-12-30        |
 | `Varik12`         | $51.00            | 2026-01-12        |
 | `N/A`             | $00.00            | 2000-00-00        |
 | `N/A`             | $00.00            | 2000-00-00        |
